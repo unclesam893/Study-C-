@@ -15,7 +15,7 @@ namespace ConsoleApp2
             author = _author;
             genre = _genre;
 
-            //Print();
+            
         }
         public void Print()
         {
